@@ -1,3 +1,23 @@
+#Задание на экзамене МДК 09.01. #Фронтенд-часть
+
+#Ссылка на серверную часть: https://github.com/Prospero03/React_Backend_MDK.09.01
+
+#При игнорировании установки папки node_modules проверьте наличие установленных модулей:
+
+компоненты в стиле npm i
+
+редуктор npm i
+
+npm i react-валюта-формат
+
+npm i @stripe/react-stripe-js @stripe/stripe-js
+
+npm i react-маршрутизатор-dom
+
+нпм и аксиос
+
+npm install --save-dev ajv@^7
+//Если не работает create-react-app
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
