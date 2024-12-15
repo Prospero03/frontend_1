@@ -60,7 +60,7 @@ function Payment () {
                         <Description>
                             
                             <h4>{product.title}</h4> 
-                            <p>{product.price}</p>
+                            <p>{product.price} руб.</p>
 
                         </Description>
                         </Product>
