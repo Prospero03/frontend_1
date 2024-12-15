@@ -39,7 +39,7 @@ function Checkout () {
                 <Description>
                   
                   <h4>{product.title}</h4> 
-                  <p>{product.price}</p>
+                  <p>{product.price} руб.</p>
                   <button onClick={(e)=> removeFromBasket(e,product.id)}>Убрать</button>
 
                 </Description>
