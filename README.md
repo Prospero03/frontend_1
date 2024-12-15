@@ -2,6 +2,9 @@
 
 #Ссылка на серверную часть: https://github.com/Prospero03/React_Backend_MDK.09.01
 
+#Видео-Обзор: 
+https://rutube.ru/video/private/5ff94a5a1225eb823e42f60688309018/?p=GuYQWhmpT8DKDV6qhjqB-Q
+
 #При игнорировании установки папки node_modules проверьте наличие установленных модулей:
 
 компоненты в стиле npm i
